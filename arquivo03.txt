@@ -1,1 +1,3 @@
 novo arquivo criado.
+linha 2
+linha3
